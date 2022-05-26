@@ -1,18 +1,18 @@
 ﻿10Forms
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\David Lara\Source\Repos\10Forms\obj\Debug\netcoreapp3.1\
+C:\Users\David Lara\Source\Repos\10Forms\obj\Release\netcoreapp3.1\
 _10Forms
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\David Lara\Source\Repos\10Forms\App.xaml
 11407045341
 
-6132977175
+4379138971
 192-1533232326
 MainWindow.xaml;
 
