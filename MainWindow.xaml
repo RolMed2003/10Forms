@@ -60,7 +60,10 @@
                     </MenuItem.Icon>
 
                     <MenuItem Header="Pago"
-                              > 
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30"> 
                         
                         
                         
