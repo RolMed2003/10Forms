@@ -20,3 +20,51 @@ C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debu
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\_10Forms.Properties.Resources.resources
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\10Forms.csproj.GenerateResource.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\bin\Debug\netcoreapp3.1\10Forms.exe
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\bin\Debug\netcoreapp3.1\10Forms.deps.json
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\bin\Debug\netcoreapp3.1\10Forms.runtimeconfig.json
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\bin\Debug\netcoreapp3.1\10Forms.runtimeconfig.dev.json
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\bin\Debug\netcoreapp3.1\10Forms.dll
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\bin\Debug\netcoreapp3.1\10Forms.pdb
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.csproj.AssemblyReference.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms_MarkupCompile.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms_MarkupCompile.lref
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.g.resources
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\_10Forms.Properties.Resources.resources
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.csproj.GenerateResource.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfoInputs.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfo.cs
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.dll
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.pdb
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Pago.g.cs
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Pago.baml
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Pago.g.cs
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms_MarkupCompile.cache
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms_MarkupCompile.lref
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.dll
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.pdb
+C:\Users\rolan\OneDrive\Escritorio\10Forms\bin\Debug\netcoreapp3.1\10Forms.exe
+C:\Users\rolan\OneDrive\Escritorio\10Forms\bin\Debug\netcoreapp3.1\10Forms.deps.json
+C:\Users\rolan\OneDrive\Escritorio\10Forms\bin\Debug\netcoreapp3.1\10Forms.runtimeconfig.json
+C:\Users\rolan\OneDrive\Escritorio\10Forms\bin\Debug\netcoreapp3.1\10Forms.runtimeconfig.dev.json
+C:\Users\rolan\OneDrive\Escritorio\10Forms\bin\Debug\netcoreapp3.1\10Forms.dll
+C:\Users\rolan\OneDrive\Escritorio\10Forms\bin\Debug\netcoreapp3.1\10Forms.pdb
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Pago.baml
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.g.resources
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\_10Forms.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfoInputs.cache
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfo.cs
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache

@@ -24,5 +24,26 @@ namespace _10Forms
         {
             InitializeComponent();
         }
+
+    private void MenuItem_Click(object sender, RoutedEventArgs e)
+    {
+
+    }
+
+        private void Gonorrea_Click(object sender, RoutedEventArgs e)
+        {
+
+            Comprobante_Pago comprobante_Pago = new Comprobante_Pago();
+            comprobante_Pago.Owner = this;
+            comprobante_Pago.ShowDialog();
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            this.Close();
+
+        }
     }
 }

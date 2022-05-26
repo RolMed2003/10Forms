@@ -1,4 +1,4 @@
-﻿<Window x:Class="_10Forms.MainWindow"
+<Window x:Class="_10Forms.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -9,9 +9,11 @@
         Title="MainWindow"
         Height="600"
         Width="1150"
-        WindowStartupLocation="CenterScreen"
+        Top="100"
+        Left="100"
         WindowStyle="None"
-        AllowsTransparency="True">
+        AllowsTransparency="True"
+        >
 
     <Grid Background="#23262B">
 
@@ -22,7 +24,7 @@
 
             <!--Name-->
             <Label Height="50"
-                   Content="Evolution"
+                   Content="El Tisey S.A"
                    HorizontalContentAlignment="Center"
                    VerticalContentAlignment="Center"
                    FontSize="22"
@@ -59,17 +61,17 @@
 
                     </MenuItem.Icon>
 
-                    <MenuItem Header="Pago"
+                    <MenuItem x:Name="comprobantePago" Header="Pago"
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gothic UI"
-                              Height="30"> 
-                        
-                        
-                        
-                        
+                              Height="30" Click="Gonorrea_Click">
+
+
+
+
                     </MenuItem>
-                    
+
                     <MenuItem Header="Diario"
                               FontSize="16"
                               Foreground="Black"
@@ -80,7 +82,7 @@
 
 
                     </MenuItem>
-                    
+
                     <MenuItem Header="Caja Chica"
                               FontSize="16"
                               Foreground="Black"
@@ -100,13 +102,25 @@
                           FontSize="16"
                           Foreground="LightGray"
                           FontFamily="Yu Gothic UI"
-                          Height="30">
+                          Height="30" Click="MenuItem_Click">
 
                     <MenuItem.Icon>
 
                         <Image Source="/Assets/ReceiptsMenu.png"/>
 
                     </MenuItem.Icon>
+
+                    <MenuItem Header="Recibo oficial de caja"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gotchic UI"
+                              Height="30">
+
+
+                    </MenuItem>
+
+
+
 
                 </MenuItem>
 
@@ -171,8 +185,9 @@
                    FontFamily="Yu Gothic UI Semibold"
                    Foreground="WhiteSmoke"
                    Margin="0,50"/>
-            
+
         </StackPanel>
+        <Button Content="X" HorizontalAlignment="Left" Margin="1110,0,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic UI Semibold" FontSize="22" Width="40" Foreground="White" Click="Button_Click" Background="Red"/>
 
     </Grid>
 </Window>
