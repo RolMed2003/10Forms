@@ -4,21 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\David Lara\Source\Repos\10Forms\obj\Debug\netcoreapp3.1\
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\
 _10Forms
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-<<<<<<< HEAD
-C:\Users\David Lara\Source\Repos\10Forms\App.xaml
-=======
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\App.xaml
->>>>>>> 0678a11169b07a4c8908f2828bd40d3952f5fd44
 11407045341
 
 4379138971
 192-1533232326
 MainWindow.xaml;
 
-True
+False
 
