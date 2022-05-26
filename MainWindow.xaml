@@ -67,8 +67,32 @@
                         
                         
                         
+                        
                     </MenuItem>
                     
+                    <MenuItem Header="Diario"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30">
+
+
+
+
+                    </MenuItem>
+                    
+                    <MenuItem Header="Caja Chica"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30">
+
+
+
+
+                    </MenuItem>
+
+
                 </MenuItem>
 
                 <!--Receipts-->
@@ -110,6 +134,26 @@
                         <Image Source="/Assets/BillsMenu.png"/>
 
                     </MenuItem.Icon>
+
+                    <MenuItem Header="Contado"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30">
+
+
+
+                    </MenuItem>
+
+                    <MenuItem Header="Credito"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30">
+
+
+
+                    </MenuItem>
 
                 </MenuItem>
 
