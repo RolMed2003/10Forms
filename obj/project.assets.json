@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rolan\\.nuget\\packages\\": {}
+    "C:\\Users\\Microsoft Windows\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\10Forms\\10Forms.csproj",
+      "projectUniqueName": "C:\\Users\\Microsoft Windows\\Desktop\\Enrique Manuel\\TRABAJOS UNI-IES\\a\\10Forms.csproj",
       "projectName": "10Forms",
-      "projectPath": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\10Forms\\10Forms.csproj",
-      "packagesPath": "C:\\Users\\rolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\10Forms\\obj\\",
+      "projectPath": "C:\\Users\\Microsoft Windows\\Desktop\\Enrique Manuel\\TRABAJOS UNI-IES\\a\\10Forms.csproj",
+      "packagesPath": "C:\\Users\\Microsoft Windows\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Microsoft Windows\\Desktop\\Enrique Manuel\\TRABAJOS UNI-IES\\a\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Microsoft Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
