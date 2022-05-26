@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rolan\\.nuget\\packages\\": {}
+    "C:\\Users\\David Lara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\10Forms\\10Forms.csproj",
+      "projectUniqueName": "C:\\Users\\David Lara\\Source\\Repos\\10Forms\\10Forms.csproj",
       "projectName": "10Forms",
-      "projectPath": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\10Forms\\10Forms.csproj",
-      "packagesPath": "C:\\Users\\rolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\10Forms\\obj\\",
+      "projectPath": "C:\\Users\\David Lara\\Source\\Repos\\10Forms\\10Forms.csproj",
+      "packagesPath": "C:\\Users\\David Lara\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\David Lara\\Source\\Repos\\10Forms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\David Lara\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
