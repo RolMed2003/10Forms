@@ -42,6 +42,7 @@ C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\n
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.dll
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.pdb
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Pago.g.cs
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Pago.baml
 C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.csproj.AssemblyReference.cache
@@ -68,3 +69,9 @@ C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.Assem
 C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfo.cs
 C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.csproj.CoreCompileInputs.cache
 C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
+=======
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\Recibo_caja.g.cs
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\Recibo_caja.baml
+>>>>>>> 1b75e69be1940407ed62db26f14e9c35b69a0d36
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\Recibo_caja.g.cs
+C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\Recibo_caja.baml

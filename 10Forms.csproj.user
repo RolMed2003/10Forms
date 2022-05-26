@@ -7,6 +7,11 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+   <Compile Update="Recibo_caja.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Update="Comprobante_Pago.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -16,6 +21,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Recibo_caja.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

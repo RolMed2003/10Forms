@@ -101,7 +101,7 @@ namespace _10Forms {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/10Forms;component/comprobante_pago.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/10Forms;V1.0.0.0;component/comprobante_pago.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Comprobante_Pago.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,10 +25,18 @@ namespace _10Forms
             InitializeComponent();
         }
 
-    private void MenuItem_Click(object sender, RoutedEventArgs e)
-    {
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
 
-    }
+        }
+
+        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
+        {
+            Recibo_caja recibo_caja = new Recibo_caja();
+            recibo_caja.Owner = this;
+            recibo_caja.ShowDialog();
+        }
+
 
         private void Gonorrea_Click(object sender, RoutedEventArgs e)
         {
@@ -46,4 +54,6 @@ namespace _10Forms
 
         }
     }
+
 }
+

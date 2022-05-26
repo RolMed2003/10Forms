@@ -114,9 +114,16 @@
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gotchic UI"
-                              Height="30">
+                              Height="30" Click="MenuItem_Click_1">
 
 
+                  </MenuItem>
+
+                    <MenuItem Header="Recibo Debito - Credito"
+                            FontSize="16"
+                            Foreground="Black"
+                            FontFamily="Yu Gotchic UI"
+                            Height="30">
                     </MenuItem>
 
 
