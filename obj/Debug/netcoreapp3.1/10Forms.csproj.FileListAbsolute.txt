@@ -42,3 +42,5 @@ C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\n
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.dll
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.pdb
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\Recibo_caja.g.cs
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\Recibo_caja.baml
