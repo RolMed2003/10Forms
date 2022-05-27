@@ -45,12 +45,17 @@ namespace _10Forms
       recibo.Valor_letras = valorLetras_txt.Text;
      
 
-      tbl_reciboDiario.Items.Add(recibo);
+      tbl_reciboCaja.Items.Add(recibo);
       nombre_txt.Text = "";
       cantidad_txt.Text = "";
       concepto_txt.Text = "";
       valorLetras_txt.Text = "";
 
+    }
+
+    private void regresar_bton_Click(object sender, RoutedEventArgs e)
+    {
+      this.Close();
     }
   }
 }

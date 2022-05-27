@@ -77,7 +77,9 @@ namespace _10Forms
         private void reciboCreditoDebito_Click(object sender, RoutedEventArgs e)
         {
 
-            //Code
+            Recibo_CreditoDebito x = new Recibo_CreditoDebito();
+            x.Owner = this;
+            x.ShowDialog();
 
         }
 
@@ -98,7 +100,9 @@ namespace _10Forms
         private void detalleCheques_Click(object sender, RoutedEventArgs e)
         {
 
-            //Code
+            ChequesFlotantes x = new ChequesFlotantes();
+            x.Owner = this;
+            x.ShowDialog();
 
         }
 

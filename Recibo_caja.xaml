@@ -38,8 +38,8 @@
            />
     <Button x:Name="regist_bton" Content="REGISTRAR" HorizontalAlignment="Left" Height="30" Margin="671,240,0,0" VerticalAlignment="Top" Width="118" FontFamily="Yu Gothic" FontWeight="Bold" FontSize="16" Foreground="White" Background="#FF313131" Click="regist_bton_Click"/>
 
-    <DataGrid x:Name="tbl_reciboDiario" HorizontalAlignment="Left"
-              Height="209" Margin="10,293,0,0"
+    <DataGrid x:Name="tbl_reciboCaja" HorizontalAlignment="Left"
+              Height="209" Margin="10,280,0,0"
               VerticalAlignment="Top" Width="779"
               d:ItemsSource="{d:SampleData ItemCount=0}">
 
@@ -50,12 +50,13 @@
         <DataGridTextColumn Header="Concepto" Binding="{Binding Concepto}" Width="100"/>
         <DataGridTextColumn Header="Valor en letras" Binding="{Binding Valor_letras}" Width="100"/>
       </DataGrid.Columns>
-      
-    </DataGrid>
-    
-    
 
-    
+    </DataGrid>
+    <Button x:Name="regresar_bton" Content="Volver" HorizontalAlignment="Left" Height="36" Margin="10,494,0,0" VerticalAlignment="Top" Width="94" Click="regresar_bton_Click" FontFamily="Yu Gothic" FontSize="16" FontWeight="Bold"/>
+
+
+
+
 
 
   </Grid>

@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="ChequesFlotantes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Comprobante_CajaChica.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -21,8 +24,14 @@
     <Compile Update="Comprobante_Pago.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Recibo_CreditoDebito.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="ChequesFlotantes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Comprobante_CajaChica.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -36,6 +45,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Recibo_caja.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Recibo_CreditoDebito.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10FormsP\obj\Debug\netcoreapp3.1\
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\netcoreapp3.1\
 _10Forms
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10FormsP\App.xaml
-52049288132
+C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\App.xaml
+7922577457
 
-81979818064
+101718621466
 192-1533232326
-Comprobante_CajaChica.xaml;Comprobante_Diario.xaml;Comprobante_Pago.xaml;MainWindow.xaml;Recibo_caja.xaml;
+ChequesFlotantes.xaml;Comprobante_CajaChica.xaml;Comprobante_Diario.xaml;Comprobante_Pago.xaml;MainWindow.xaml;Recibo_caja.xaml;Recibo_CreditoDebito.xaml;
 
 False
 

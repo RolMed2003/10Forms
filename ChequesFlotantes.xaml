@@ -1,0 +1,57 @@
+<Window x:Class="_10Forms.ChequesFlotantes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10Forms"
+        mc:Ignorable="d"
+
+        
+        Title="Cheques Flotantes"
+        Height="540"
+        Width="880"
+        Left="350"
+        Top="140"
+        WindowStyle="None"
+        AllowsTransparency="True">
+
+
+
+
+
+  <Grid Background="#23262B">
+
+    <Label Content="CHEQUES FLOTANTES" HorizontalContentAlignment="Center"
+     Height="41" VerticalAlignment="Top" FontFamily="Yu Gothic" FontSize="22" FontWeight="Bold"
+     Foreground="WhiteSmoke" Margin="0,1,0,0"      />
+    <TextBox x:Name="nombre_input" HorizontalAlignment="Left" Height="42" Margin="20,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" FontFamily="Yu Gothic" FontSize="16"/>
+    <Label Content="Nombre:" HorizontalAlignment="Left" Height="29" Margin="20,53,0,0" VerticalAlignment="Top" Width="168"
+     Foreground="White" FontWeight="Bold"
+           />
+    <TextBox x:Name="cantidad_input" HorizontalAlignment="Left" Height="42" Margin="20,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" FontFamily="Yu Gothic" FontSize="16"/>
+    <Label Content="Cantidad:" HorizontalAlignment="Left" Height="29" Margin="20,140,0,0" VerticalAlignment="Top" Width="101"
+      Foreground="White" FontWeight="Bold"
+           />
+    <Button x:Name="registrar_bton" Content="REGISTRAR" HorizontalAlignment="Left" Height="30" Margin="262,174,0,0" VerticalAlignment="Top" Width="118" FontFamily="Yu Gothic" FontWeight="Bold" FontSize="16" Foreground="White" Background="#FF313131" Click="regist_bton_Click"/>
+
+    <DataGrid x:Name="tbl_Cheques" HorizontalAlignment="Left"
+              Height="215" Margin="200,252,0,0"
+              VerticalAlignment="Top" Width="440"
+              d:ItemsSource="{d:SampleData ItemCount=0}">
+
+      <DataGrid.Columns>
+        <DataGridTextColumn Header="No Cheque" Binding="{Binding NoCheque}" Width="100"/>
+        <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="100"/>
+        <DataGridTextColumn Header="Monto" Binding="{Binding Monto}" Width="100"/>
+
+      </DataGrid.Columns>
+
+    </DataGrid>
+    <Button x:Name="volver_bton" Content="Volver" HorizontalAlignment="Left" Height="28" Margin="20,502,0,0" VerticalAlignment="Top" Width="79" FontFamily="Yu Gothic" FontSize="16" FontWeight="Bold" Click="volver_bton_Click"/>
+    <Label Content="Fecha:" HorizontalAlignment="Left" Height="42" Margin="759,56,0,0" VerticalAlignment="Top" Width="69" FontFamily="Yu Gothic" FontSize="16" FontWeight="Bold" Foreground="White"/>
+    <Label Content="27 / 05 / 2022" HorizontalAlignment="Left" Height="31" Margin="705,98,0,0" VerticalAlignment="Top" Width="123" FontWeight="Bold" FontFamily="Yu Gothic" FontSize="16" Foreground="White"/>
+
+
+
+  </Grid>
+</Window>
