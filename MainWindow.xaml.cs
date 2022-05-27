@@ -25,6 +25,7 @@ namespace _10Forms
             InitializeComponent();
         }
 
+        //Obviar este metodo
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
 
@@ -37,7 +38,7 @@ namespace _10Forms
             recibo_caja.ShowDialog();
         }
 
-
+        //Boton del menu Comprobantes-Pago
         private void Gonorrea_Click(object sender, RoutedEventArgs e)
         {
 
@@ -47,10 +48,64 @@ namespace _10Forms
 
         }
 
+        //Boton para salir del programa
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
             this.Close();
+
+        }
+
+        private void comprobanteDiario_Click(object sender, RoutedEventArgs e)
+        {
+
+            Comprobante_Diario x = new Comprobante_Diario();
+            x.Owner = this;
+            x.ShowDialog();
+
+        }
+
+        private void comprobanteCajaChica_Click(object sender, RoutedEventArgs e)
+        {
+
+            Comprobante_CajaChica x = new Comprobante_CajaChica();
+            x.Owner = this;
+            x.ShowDialog();
+
+        }
+
+        private void reciboCreditoDebito_Click(object sender, RoutedEventArgs e)
+        {
+
+            //Code
+
+        }
+
+        private void facturaContado_Click(object sender, RoutedEventArgs e)
+        {
+
+            //Code
+
+        }
+
+        private void facturaCredito_Click(object sender, RoutedEventArgs e)
+        {
+
+            //Code
+
+        }
+
+        private void detalleCheques_Click(object sender, RoutedEventArgs e)
+        {
+
+            //Code
+
+        }
+
+        private void conciliacionBancaria_Click(object sender, RoutedEventArgs e)
+        {
+
+            //Code
 
         }
     }

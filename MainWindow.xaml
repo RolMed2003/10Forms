@@ -23,7 +23,7 @@
                     HorizontalAlignment="Left">
 
             <!--Name-->
-            <Label Height="50"
+            <Label x:Name="appTitle" Height="50"
                    Content="El Tisey S.A"
                    HorizontalContentAlignment="Center"
                    VerticalContentAlignment="Center"
@@ -35,7 +35,7 @@
                        Height="10"/>
 
             <!--Main Menu-->
-            <Menu Height="450"
+            <Menu x:Name="mainMenu" Height="450"
                   Background="Transparent">
 
                 <Menu.ItemsPanel>
@@ -49,7 +49,7 @@
                 </Menu.ItemsPanel>
 
                 <!--Vouchers-->
-                <MenuItem Header="Comprobantes"
+                <MenuItem x:Name="comprobantesMenu" Header="Comprobantes"
                           FontSize="16"
                           Foreground="LightGray"
                           FontFamily="Yu Gothic UI"
@@ -72,22 +72,22 @@
 
                     </MenuItem>
 
-                    <MenuItem Header="Diario"
+                    <MenuItem x:Name="comprobanteDiario" Header="Diario"
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gothic UI"
-                              Height="30">
+                              Height="30" Click="comprobanteDiario_Click">
 
 
 
 
                     </MenuItem>
 
-                    <MenuItem Header="Caja Chica"
+                    <MenuItem x:Name="comprobanteCajaChica" Header="Caja Chica"
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gothic UI"
-                              Height="30">
+                              Height="30" Click="comprobanteCajaChica_Click">
 
 
 
@@ -98,7 +98,7 @@
                 </MenuItem>
 
                 <!--Receipts-->
-                <MenuItem Header="Recibos"
+                <MenuItem x:Name="recibosMenu" Header="Recibos"
                           FontSize="16"
                           Foreground="LightGray"
                           FontFamily="Yu Gothic UI"
@@ -110,7 +110,7 @@
 
                     </MenuItem.Icon>
 
-                    <MenuItem Header="Recibo oficial de caja"
+                    <MenuItem x:Name="reciboOficial" Header="Recibo oficial de caja"
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gotchic UI"
@@ -119,11 +119,11 @@
 
                   </MenuItem>
 
-                    <MenuItem Header="Recibo Debito - Credito"
+                    <MenuItem x:Name="reciboCreditoDebito" Header="Recibo Debito - Credito"
                             FontSize="16"
                             Foreground="Black"
                             FontFamily="Yu Gotchic UI"
-                            Height="30">
+                            Height="30" Click="reciboCreditoDebito_Click">
                     </MenuItem>
 
 
@@ -132,7 +132,7 @@
                 </MenuItem>
 
                 <!--Bills-->
-                <MenuItem Header="Facturas"
+                <MenuItem x:Name="facturasMenu" Header="Facturas"
                           FontSize="16"
                           Foreground="LightGray"
                           FontFamily="Yu Gothic UI"
@@ -144,21 +144,21 @@
 
                     </MenuItem.Icon>
 
-                    <MenuItem Header="Contado"
+                    <MenuItem x:Name="facturaContado" Header="Contado"
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gothic UI"
-                              Height="30">
+                              Height="30" Click="facturaContado_Click">
 
 
 
                     </MenuItem>
 
-                    <MenuItem Header="Credito"
+                    <MenuItem x:Name="facturaCredito" Header="Credito"
                               FontSize="16"
                               Foreground="Black"
                               FontFamily="Yu Gothic UI"
-                              Height="30">
+                              Height="30" Click="facturaCredito_Click">
 
 
 
@@ -167,7 +167,7 @@
                 </MenuItem>
 
                 <!--Acountting-->
-                <MenuItem Header="Contabilidad"
+                <MenuItem x:Name="contabilidadMenu" Header="Contabilidad"
                           FontSize="16"
                           Foreground="LightGray"
                           FontFamily="Yu Gothic UI"
@@ -179,12 +179,32 @@
 
                     </MenuItem.Icon>
 
+                    <MenuItem x:Name="detalleCheques" Header="Detalle de cheques flotantes"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30" Click="detalleCheques_Click">
+                        
+                        
+                        
+                    </MenuItem>
+
+                    <MenuItem x:Name="conciliacionBancaria" Header="Conciliacion bancaria"
+                              FontSize="16"
+                              Foreground="Black"
+                              FontFamily="Yu Gothic UI"
+                              Height="30" Click="conciliacionBancaria_Click">
+
+
+
+                    </MenuItem>
+
                 </MenuItem>
 
             </Menu>
 
             <!--Version-->
-            <Label Height="30"
+            <Label x:Name="versionLbl" Height="30"
                    Content="V 1.0"
                    HorizontalContentAlignment="Center"
                    VerticalContentAlignment="Center"
@@ -194,7 +214,7 @@
                    Margin="0,50"/>
 
         </StackPanel>
-        <Button Content="X" HorizontalAlignment="Left" Margin="1110,0,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic UI Semibold" FontSize="22" Width="40" Foreground="White" Click="Button_Click" Background="Red"/>
+        <Button x:Name="exitBtn" Content="X" HorizontalAlignment="Left" Margin="1110,0,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic UI Semibold" FontSize="22" Width="40" Foreground="White" Click="Button_Click" Background="Red"/>
 
     </Grid>
 </Window>

@@ -7,7 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-   <Compile Update="Recibo_caja.xaml.cs">
+    <Compile Update="Comprobante_CajaChica.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Comprobante_Diario.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Recibo_caja.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -17,6 +23,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Comprobante_CajaChica.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Comprobante_Diario.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Comprobante_Pago.xaml">
       <SubType>Designer</SubType>
     </Page>

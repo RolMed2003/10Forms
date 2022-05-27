@@ -73,6 +73,16 @@ namespace _10Forms.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Byte[].
         /// </summary>
+        internal static byte[] ComprobanteCaja {
+            get {
+                object obj = ResourceManager.GetObject("ComprobanteCaja", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
         internal static byte[] ContMenu {
             get {
                 object obj = ResourceManager.GetObject("ContMenu", resourceCulture);

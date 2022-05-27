@@ -1,0 +1,47 @@
+﻿<Window x:Class="_10Forms.Comprobante_CajaChica"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10Forms"
+        mc:Ignorable="d"
+        Title="Comprobante_CajaChica"
+        Height="540"
+        Width="880"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Left="350"
+        Top="140">
+
+    <Grid Background="#23262B">
+
+
+        <Image HorizontalAlignment="Left" Height="367" Margin="10,133,0,0" VerticalAlignment="Top" Width="774" Source="/Assets/ComprobanteCaja.png"/>
+        <Button x:Name="volverBtn" Content="Volver" HorizontalAlignment="Left" Margin="10,505,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Yu Gothic UI" Click="volverBtn_Click"/>
+        <Label Content="27" HorizontalAlignment="Center" Height="30" Margin="0,187,0,0" VerticalAlignment="Top" Width="48" Foreground="Black"/>
+        <Label Content="mayo" HorizontalAlignment="Left" Height="30" Margin="519,187,0,0" VerticalAlignment="Top" Width="48" Foreground="Black"/>
+        <Label Content="9" HorizontalAlignment="Left" Height="30" Margin="655,187,0,0" VerticalAlignment="Top" Width="48" Foreground="Black"/>
+        <Label x:Name="pagueseLbl" Content="" HorizontalAlignment="Left" Height="30" Margin="170,230,0,0" VerticalAlignment="Top" Width="574" Foreground="Black" FontSize="14"/>
+        <Label x:Name="cantidadLbl" Content="" HorizontalAlignment="Left" Height="30" Margin="170,270,0,0" VerticalAlignment="Top" Width="574" Foreground="Black" FontSize="14"/>
+        <Label x:Name="valorLetrasLbl" Content="" HorizontalAlignment="Left" Height="30" Margin="170,305,0,0" VerticalAlignment="Top" Width="574" Foreground="Black" FontSize="14"/>
+        <Label Content="00001" HorizontalAlignment="Left" Height="39" Margin="631,133,0,0" VerticalAlignment="Top" Width="72" Foreground="Black" FontSize="22"/>
+        <Label x:Name="conceptoLbl" Content="" HorizontalAlignment="Left" Height="89" Margin="22,396,0,0" VerticalAlignment="Top" Width="336" Foreground="Black" FontSize="14"/>
+        <Label x:Name="pagadoLbl" Content="" HorizontalAlignment="Left" Height="30" Margin="375,422,0,0" VerticalAlignment="Top" Width="168" Foreground="Black" FontSize="14"/>
+        <Label x:Name="recibidoLbl" Content="" HorizontalAlignment="Left" Height="30" Margin="567,422,0,0" VerticalAlignment="Top" Width="168" Foreground="Black" FontSize="14"/>
+        <Label Content="Paguese a:" HorizontalAlignment="Left" Height="30" Margin="10,10,0,0" VerticalAlignment="Top" Width="102" Foreground="White" FontFamily="Yu Gothic UI"/>
+        <TextBox x:Name="pagueseTxt" HorizontalAlignment="Left" Margin="117,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" FontFamily="Yu Gothic UI"/>
+        <Label Content="La cantidad de:" HorizontalAlignment="Left" Height="30" Margin="10,39,0,0" VerticalAlignment="Top" Width="102" Foreground="White" FontFamily="Yu Gothic UI"/>
+        <TextBox x:Name="cantidadTxt" HorizontalAlignment="Left" Margin="117,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" FontFamily="Yu Gothic UI"/>
+        <Label Content="Valor en letras:" HorizontalAlignment="Left" Height="30" Margin="10,73,0,0" VerticalAlignment="Top" Width="102" Foreground="White" FontFamily="Yu Gothic UI"/>
+        <TextBox x:Name="valorLetrasTxt" HorizontalAlignment="Left" Margin="117,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" FontFamily="Yu Gothic UI"/>
+        <Label Content="En concepto de:" HorizontalAlignment="Left" Height="30" Margin="281,10,0,0" VerticalAlignment="Top" Width="102" Foreground="White" FontFamily="Yu Gothic UI"/>
+        <TextBox x:Name="conceptoTxt" HorizontalAlignment="Left" Margin="388,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontFamily="Yu Gothic UI" Height="47" TextChanged="pagueseTxt_Copy2_TextChanged"/>
+        <Label Content="Pagado por:" HorizontalAlignment="Left" Height="30" Margin="281,73,0,0" VerticalAlignment="Top" Width="102" Foreground="White" FontFamily="Yu Gothic UI"/>
+        <TextBox x:Name="pagadoTxt" HorizontalAlignment="Left" Margin="388,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontFamily="Yu Gothic UI"/>
+        <Label Content="Recibido por:" HorizontalAlignment="Left" Height="30" Margin="600,10,0,0" VerticalAlignment="Top" Width="79" Foreground="White" FontFamily="Yu Gothic UI"/>
+        <TextBox x:Name="recibidoTxt" HorizontalAlignment="Left" Margin="679,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontFamily="Yu Gothic UI"/>
+        <Button x:Name="registrarBtn" Content="Registrar" HorizontalAlignment="Left" Height="34" Margin="614,57,0,0" VerticalAlignment="Top" Width="235" FontSize="16" FontFamily="Yu Gothic UI Semibold" Click="registrarBtn_Click"/>
+
+
+    </Grid>
+</Window>

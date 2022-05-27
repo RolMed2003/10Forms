@@ -75,3 +75,9 @@ C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\obj\Debug\n
 >>>>>>> 1b75e69be1940407ed62db26f14e9c35b69a0d36
 C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\Recibo_caja.g.cs
 C:\Users\rolan\OneDrive\Escritorio\10Forms\obj\Debug\netcoreapp3.1\Recibo_caja.baml
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Recibo_caja.g.cs
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Recibo_caja.baml
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Diario.g.cs
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_Diario.baml
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_CajaChica.g.cs
+C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10Forms\obj\Debug\netcoreapp3.1\Comprobante_CajaChica.baml

@@ -101,7 +101,7 @@ namespace _10Forms {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/10Forms;V1.0.0.0;component/recibo_caja.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/10Forms;component/recibo_caja.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Recibo_caja.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

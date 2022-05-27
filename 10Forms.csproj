@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <None Remove="Assets\BillsMenu.png" />
+    <None Remove="Assets\ComprobanteCaja.png" />
     <None Remove="Assets\ContMenu.png" />
     <None Remove="Assets\ReceiptsMenu.png" />
     <None Remove="Assets\VouchersMenu.png" />
@@ -16,6 +17,7 @@
 
   <ItemGroup>
     <Resource Include="Assets\BillsMenu.png" />
+    <Resource Include="Assets\ComprobanteCaja.png" />
     <Resource Include="Assets\ContMenu.png" />
     <Resource Include="Assets\ReceiptsMenu.png" />
     <Resource Include="Assets\VouchersMenu.png" />
