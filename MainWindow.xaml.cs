@@ -87,6 +87,11 @@ namespace _10Forms
         {
 
             //Code
+            Factura_Contado x = new Factura_Contado();
+            x.Owner = this;
+            x.Show();
+
+            
 
         }
 
@@ -94,6 +99,9 @@ namespace _10Forms
         {
 
             //Code
+            Factura_Credito x = new Factura_Credito();
+            x.Owner = this;
+            x.Show();
 
         }
 
@@ -110,6 +118,9 @@ namespace _10Forms
         {
 
             //Code
+            Conciliacion_Bancaria x = new Conciliacion_Bancaria();
+            x.Owner = this;
+            x.Show();
 
         }
     }

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Microsoft Windows\Desktop\Enrique Manuel\TRABAJOS UNI-IES\a\App.xaml
-7922577457
+1056516682
 
-101718621466
+13-1047640690
 192-1533232326
-ChequesFlotantes.xaml;Comprobante_CajaChica.xaml;Comprobante_Diario.xaml;Comprobante_Pago.xaml;MainWindow.xaml;Recibo_caja.xaml;Recibo_CreditoDebito.xaml;
+ChequesFlotantes.xaml;Comprobante_CajaChica.xaml;Comprobante_Diario.xaml;Comprobante_Pago.xaml;Conciliacion_Bancaria.xaml;Factura_Contado.xaml;Factura_Credito.xaml;MainWindow.xaml;Recibo_caja.xaml;Recibo_CreditoDebito.xaml;
 
 False
 

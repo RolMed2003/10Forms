@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\David Lara\Source\Repos\10Forms\obj\Release\netcoreapp3.1\
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Release\netcoreapp3.1\
 _10Forms
 none
 false
 TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\David Lara\Source\Repos\10Forms\App.xaml
-11407045341
+C:\Users\David Lara\source\repos\10FormsOriginal\App.xaml
+81183227357
 
-4379138971
+11-786444092
 192-1533232326
-MainWindow.xaml;
+Comprobante_CajaChica.xaml;Comprobante_Diario.xaml;Comprobante_Pago.xaml;Conciliacion_Bancaria.xaml;Factura_Contado.xaml;Factura_Credito.xaml;MainWindow.xaml;Recibo_caja.xaml;
 
 True
 
