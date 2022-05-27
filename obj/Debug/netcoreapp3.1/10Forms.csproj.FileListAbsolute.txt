@@ -111,3 +111,39 @@ C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10FormsP\obj\Deb
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10FormsP\obj\Debug\netcoreapp3.1\10Forms.dll
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10FormsP\obj\Debug\netcoreapp3.1\10Forms.pdb
 C:\Users\rolan\OneDrive\Documentos\Visual Studio 2022\Proyectos\10FormsP\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\bin\Debug\netcoreapp3.1\10Forms.exe
+C:\Users\David Lara\source\repos\10FormsOriginal\bin\Debug\netcoreapp3.1\10Forms.deps.json
+C:\Users\David Lara\source\repos\10FormsOriginal\bin\Debug\netcoreapp3.1\10Forms.runtimeconfig.json
+C:\Users\David Lara\source\repos\10FormsOriginal\bin\Debug\netcoreapp3.1\10Forms.runtimeconfig.dev.json
+C:\Users\David Lara\source\repos\10FormsOriginal\bin\Debug\netcoreapp3.1\10Forms.dll
+C:\Users\David Lara\source\repos\10FormsOriginal\bin\Debug\netcoreapp3.1\10Forms.pdb
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.csproj.AssemblyReference.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Comprobante_CajaChica.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Comprobante_Diario.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Comprobante_Pago.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Recibo_caja.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms_MarkupCompile.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms_MarkupCompile.lref
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Comprobante_CajaChica.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Comprobante_Diario.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Comprobante_Pago.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Recibo_caja.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.g.resources
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\_10Forms.Properties.Resources.resources
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.csproj.GenerateResource.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfoInputs.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.AssemblyInfo.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.csproj.CoreCompileInputs.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.dll
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.pdb
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\10Forms.genruntimeconfig.cache
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Factura_Contado.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Factura_Contado.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Factura_Credito.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Factura_Credito.baml
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Conciliacion_Bancaria.g.cs
+C:\Users\David Lara\source\repos\10FormsOriginal\obj\Debug\netcoreapp3.1\Conciliacion_Bancaria.baml

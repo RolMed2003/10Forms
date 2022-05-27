@@ -13,6 +13,15 @@
     <Compile Update="Comprobante_Diario.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Conciliacion_Bancaria.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Factura_Contado.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Factura_Credito.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Recibo_caja.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -30,6 +39,15 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Comprobante_Pago.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Conciliacion_Bancaria.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Factura_Contado.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Factura_Credito.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

@@ -1,0 +1,51 @@
+﻿<Window x:Class="_10Forms.Factura_Credito"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10Forms"
+        mc:Ignorable="d"
+        Title="Factura_Credito"
+        Height="560" 
+        Width="860"
+        WindowStartupLocation="Manual"
+        
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Left="350"
+        Top="120">
+    <Grid>
+        <Label Content="Factura de Credito" HorizontalAlignment="Left" Margin="65,30,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic" FontSize="16"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="65,105,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic"/>
+        <TextBox x:Name="nombre_txt" HorizontalAlignment="Left" Margin="143,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90" FontFamily="Yu Gothic"/>
+        <TextBox x:Name="dir_txt" HorizontalAlignment="Left" Margin="143,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90" FontFamily="Yu Gothic"/>
+        <Label Content="Direccion" HorizontalAlignment="Left" Margin="65,132,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic"/>
+        <TextBox x:Name="cantidad_txt" HorizontalAlignment="Left" Margin="400,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30" FontFamily="Yu Gothic"/>
+        <Label Content="Cantidad" HorizontalAlignment="Left" Margin="327,105,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic"/>
+        <TextBox x:Name="uni_txt" HorizontalAlignment="Left" Margin="566,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="38" FontFamily="Yu Gothic"/>
+        <Label Content="Precio Unitario" HorizontalAlignment="Left" Margin="460,105,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic"/>
+        <TextBox x:Name="desc_txt" HorizontalAlignment="Left" Margin="430,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" FontFamily="Yu Gothic"/>
+        <Label Content="Descripción" HorizontalAlignment="Left" Margin="327,147,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic"/>
+        <Button x:Name="btn_registrar_credito" Content="Registrar" HorizontalAlignment="Left" Margin="652,147,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic" FontSize="16" Click="btn_registrar_Click"/>
+        <DataGrid x:Name="tbl_facturaCredito" HorizontalAlignment="Left"
+              Height="209" Margin="10,293,0,0"
+              VerticalAlignment="Top" Width="779"
+              d:ItemsSource="{d:SampleData ItemCount=0}">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding nombre}" Width="100"/>
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding cantidad}" Width="100"/>
+                <DataGridTextColumn Header="Descripcion" Binding="{Binding descripcion}" Width="100"/>
+                <DataGridTextColumn Header="p.Unitario" Binding="{Binding precio_unitario}" Width="100"/>
+                <DataGridTextColumn Header="Valor Total" Binding="{Binding total }" Width="100"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button x:Name="paTras2" Content="Volver" HorizontalAlignment="Left" Margin="25,530,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic" Click="paTras2_click"/>
+
+
+
+
+    </Grid>
+   
+</Window>
